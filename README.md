@@ -1,1 +1,1 @@
-# inventorysolution
+# Inventory-Management-System
